@@ -1,0 +1,8 @@
+{
+  "serialize": [
+    {"name": "keep_alive","params": {"keepAliveId": [1,2]}},
+    {"name": "position","params": {"x": 123,"y": 256,"z": 981,"onGround": true}},
+    {"name": "held_item_slot","params": {"slotId": 98}},
+    {"name": "set_creative_slot","params": {"slot":36,"item":{"present":true,"itemId":943,"itemCount":1,"nbtData":{"type":"compound","name":"","value":{"pages":{"type":"list","value":{"type":"string","value":["{\"text\":\"asdasdasd\"}","{\"text\":\"asdasdasd\"}","{\"text\":\"asdasdasd\"}"]}},"title":{"type":"string","value":"asdasd"},"author":{"type":"string","value":"1381"}}}}}}
+  ]
+}
