@@ -14,6 +14,11 @@
 - Versions above 1.20.1 will not decode most of the packets including ex: **bundle_delimiter**,**declare_commands**  
   (Suggested fix: Unknown)
 
+# Requirements
+- Node.js v20.15.1 or later installed 
+- node-minecraft-protocol installed using npm
+- Java 21
+
 # TODO
 - Add encryption support.
 - Resolve [issue with custom_payloads](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1256)  
